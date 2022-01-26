@@ -1,5 +1,5 @@
 "use strict";
 
-const category = 'toys';
-
-console.log(`https://someurl.com/${category}`);
+const isChecked = true,
+      isClosed = true;
+      
